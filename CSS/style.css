@@ -51,3 +51,16 @@
     align-items: center;
     justify-content: center;
   }
+
+  a.custom-link {
+    color: white !important; /* Change the color as needed */
+}
+
+  a.custom-link:hover {
+    color: #ff0000 !important; /* Change the color as needed */
+}
+
+.btn-primary:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Adjust the values as needed */
+}
+
