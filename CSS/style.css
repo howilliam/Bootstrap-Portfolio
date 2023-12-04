@@ -68,8 +68,8 @@
     color: #ff0000 !important; /* Change the color as needed */
 }
 
-.btn-primary:hover {
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Adjust the values as needed */
+.btn-dark:hover {
+    box-shadow: 0 0 20px rgb(0, 0, 0) !important; /* Adjust the values as needed */
 }
 
 .custom-card-img {
