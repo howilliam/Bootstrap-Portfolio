@@ -77,3 +77,24 @@
     height: 15vw;
     object-fit: cover;
 }
+
+.sectionHeading {
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+.cardContainer {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+.customContent {
+    margin-bottom: 20px;
+}
+
+.customCardbackground {
+    background-color: rgb(45, 110, 184);
+}
