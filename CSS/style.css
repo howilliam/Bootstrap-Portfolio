@@ -50,12 +50,7 @@
     text-align: center;
   }
 
-.btn-dark:hover {
-    box-shadow: 0 0 20px rgb(0, 0, 0) !important; 
-}
-
 /* About me and skills section */
-
 .customContent {
     margin-bottom: 5rem;
 }
@@ -92,5 +87,9 @@
     margin-top: 20px;
     margin-bottom: 20px;
   }
+
+.btn-dark:hover {
+    box-shadow: 0 0 20px rgb(0, 0, 0) !important; 
+}
 
 

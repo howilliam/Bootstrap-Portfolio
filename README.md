@@ -1,38 +1,22 @@
-# Bootstrap-Portfolio
+# BootStrap-Portfolio
 
-Using Bootstrap, recreate your portfolio site with the following items:
+## Description
 
-A navigation bar
+This is my portfolio webpage using Bootstrap, where there will be frequent updates to the content and design. You can find a small description about me, the projects I have completed and my contact details. Where there are no projects, image links will direct to my GitHub page. I have yet to add my projects related to C++ and Python.
 
-A navigation menu at the top. Feel free to use the navbar code provided in Bootstrap's documentation, or create your own navbar by applying the correct Bootstrap classes to your HTML.
+## Installation
 
-Include links that are applicable to your portfolio.
+N/A
 
-Links should navigate to the appropriate sections
+## Usage
 
-A hero section
+This page is mainly used to explore my work. 
+Follow this link: https://howilliam.github.io/Bootstrap-Portfolio/ 
 
-A jumbotron featuring your picture, your name, and any other information you'd like to include.
-A work section
+## Credits
 
-A section displaying your work in grid.
+N/A
 
-If you need to use placeholder image use placehold.coLinks to an external site.
+## License
 
-Use Bootstrap cards for each project.
-
-The description should give a brief overview of the work.
-
-Each project will eventually link to your class project work!
-
-A skills section
-
-List out the skills you expect to learn from the bootcamp.
-An about/contact section
-
-An About Me section in the same row.
-A footer section
-
-All hyperlinks should have a hover effect.
-
-All buttons should display a box shadow upon hover.
+Please refer to the LICENSE in the repo.
