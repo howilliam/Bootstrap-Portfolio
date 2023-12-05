@@ -29,6 +29,12 @@
   .customNav a:hover {
     color: #ff0000 !important;
   }
+
+  /* change the collapsed menu background color to white */
+.navbar-toggler-icon,
+.navbar-toggler {
+    background-color: white;
+}
   
 /* Jumnotron styling */
 .ImperialBackground {
